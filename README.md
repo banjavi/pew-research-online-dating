@@ -2,7 +2,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/p8OnGkdQ)
 # Homework #5: Argumentative Vis
 
-In this homework, you will create a pair of data visualizations that argue for opposing viewpoints, using the same base dataset.
+In this homework, you will create a pair of data visualizations that argue for opposing viewpoints, using the same base dataset. 
+PLACEHOLDER
 
 Your completed submission should include the following files:
 * `index.html`: The webpage with the visualizations.
