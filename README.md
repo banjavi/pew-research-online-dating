@@ -7,8 +7,8 @@ This visualization sheds light on the online dating experiences of men and women
 ## Inspiration
 
 The spark for this visualization was ignited by:
-- A YouTube video by **Kidology** titled 'Dating Apps: The New Class Struggle'
-- A February 2023 article from the **Pew Research Center** named 'From Looking for Love to Swiping the Field: Online Dating in the U.S.'
+- A YouTube video by **Kidology** titled '[Dating Apps: The New Class Struggle](https://www.youtube.com/watch?v=bhALIgyS4Ic)'
+- A February 2023 article from the **Pew Research Center** named '[From Looking for Love to Swiping the Field: Online Dating in the U.S.](https://www.pewresearch.org/internet/2023/02/02/from-looking-for-love-to-swiping-the-field-online-dating-in-the-u-s/)'
 
 ## Data Source
 
